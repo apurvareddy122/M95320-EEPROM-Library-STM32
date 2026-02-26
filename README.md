@@ -1,0 +1,2 @@
+# M95320-EEPROM-Library-STM32
+M95320 EEPROM Library for STM32 Platform
